@@ -139,5 +139,5 @@ Non-trainable params: 0 (0.00 Byte)
 ```
 
 ## Model Performance
-The trained model achieves an accuracy of 95.81% on the validation set, indicating its effectiveness in predicting gender from facial images.
+The trained model achieves an accuracy of 97.81% on the validation set, indicating its effectiveness in predicting gender from facial images.
 The Model is saved as `Gender_detection.keras`
